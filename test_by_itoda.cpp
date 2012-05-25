@@ -6,6 +6,7 @@ int main(){
   //hogehoge
   //piyopiyo
   //foo
+  //bar
 
   return 0;
 }
