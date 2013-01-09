@@ -14,6 +14,6 @@ foo bar
 
 {{ site.author }}
 
-<{{ site.url }}>
+<{{ site.site_url }}>
 
-<{{ site.url }}/top.html>
+<{{ site.site_url }}/top.html>
