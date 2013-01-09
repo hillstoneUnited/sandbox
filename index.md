@@ -9,3 +9,11 @@ title: test_index
 ###piyo
 
 foo bar
+
+![Alt text](../images/robot_stand.png "Optional title")
+
+{{ site.author }}
+
+<{{ site.url }}>
+
+<{{ site.url }}/top.html>
