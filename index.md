@@ -10,7 +10,7 @@ title: test_index
 
 foo bar
 
-![Alt text](../images/robot_stand.png "Optional title")
+![Alt text](images/robot_stand.png "Optional title")
 
 {{ site.author }}
 
